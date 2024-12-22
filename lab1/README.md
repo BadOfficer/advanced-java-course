@@ -7,11 +7,11 @@
 # How to Build and Run:
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/BadOfficer/Advanced-Java.git
+   git clone https://github.com/BadOfficer/advanced-java-course.git
    ```
 2. Navigate to the lab folder:
    ```bash
-   cd Advanced-Java/lab1
+   cd advanced-java-course
    ```
 3. Use the javac and java commands to compile:
    ```bash
